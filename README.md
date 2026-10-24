@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AI/ML and Computer Science projects<br>I'm currently learning Python, Java, Data Structures & Algorithms, and Machine Learning<br>Ask me about , Python, Java, Data Structures, and Computer Science<br>My goal is to become a skilled Software Engineer
+I'm currently learning Python, Java, Data Structures & Algorithms, and Machine Learning<br>Ask me about , Python, Java, Data Structures, and Computer Science<br>My goal is to become a skilled Software Engineer
 
 
 ## 🌐 Socials:
